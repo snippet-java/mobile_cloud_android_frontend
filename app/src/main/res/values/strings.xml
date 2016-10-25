@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Application</string>
+
+    <string name="username_place_holder">username</string>
+    <string name="password_place_holder">password</string>
+    <string name="login_btn_text">Log in</string>
+
+
+</resources>
